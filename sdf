@@ -1,0 +1,5 @@
+return {
+	strengthPerClick = "1000000000000000000000000000000000000", 
+	RequiredStrength = 0, 
+	RequiredCoins = "187"
+};
